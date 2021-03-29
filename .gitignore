@@ -1,0 +1,10 @@
+.vscode
+.idea
+mail_templates
+configs
+__pycache__
+dist
+*.pyc
+secrets.py
+*log*
+dummy*
